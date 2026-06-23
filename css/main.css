@@ -1,4 +1,7 @@
 @charset "UTF-8";
+
+:root { color-scheme: light; }
+
 /* Сброс CSS стилей. Reset CSS — ВебКадеми */
 /* https://webcademy.ru/blog/739/ */
 /* Reset and base styles  */
