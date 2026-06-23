@@ -1,16 +1,5 @@
 @charset "UTF-8";
 
-:root { color-scheme: light; }
-
-section, header, footer {
-  background-color: #fdfff5 !important; 
-}
-
-body, p, span, h1, h2, h3, h4, h5, h6, a {
-  color: #051833 !important;
-}
-
-
 /* Сброс CSS стилей. Reset CSS — ВебКадеми */
 /* https://webcademy.ru/blog/739/ */
 /* Reset and base styles  */
